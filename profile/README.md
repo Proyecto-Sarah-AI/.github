@@ -64,3 +64,10 @@ Todos los repositorios dentro de esta organización deben seguir un flujo estric
 4. **Despliegue:** En la fase actual del proyecto, las interfaces se despliegan en Vercel para pruebas de QA. La infraestructura de producción final (On-Premise / Cloud de Salud) está en proceso de definición.
 
 > *"Código limpio, tipado estricto y foco en la accesibilidad del paciente."*
+
+---
+
+## 📜 Reglas del Juego
+
+¿Vas a escribir código para Sarah? Asegúrate de leer nuestro manual primero para conocer la estructura de ramas y commits:
+👉 **[Lee nuestra Guía de Contribución y Buenas Prácticas aquí](https://github.com/Proyecto-Sarah-AI/.github/blob/main/CONTRIBUTING.md)**
